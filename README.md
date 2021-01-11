@@ -6,7 +6,7 @@ I have written a review of this paper, titled "Review of Silverman (2020): Multi
 
 **1. Introduction:** overview of report, motivation for the research
 
-**2. Background:** overview of data sets, review of basic log-linear model proposed by Cormack (1989)
+**2. Background:** overview of data sets, review of basic log-linear model proposed by [Cormack (1989)](https://www.jstor.org/stable/2531485?seq=1)
 
 **3. Frequentist approaches:** summary of two frequentist approaches (stepwise parameter addition and information criterion)
 
