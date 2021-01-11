@@ -18,3 +18,9 @@ I have written a review of this paper, titled "Review of Silverman (2020): *Mult
 
 **7. Conclusion:** concluding thoughts
 
+## Navigating the repository
+
+[silverman-review.pdf](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.pdf)
+[silverman-review.Rmd](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.Rmd)
+[bibliography.bib](https://github.com/nfrontero20/silverman-review/blob/master/bibliography.bib)
+
