@@ -10,7 +10,7 @@ I have written a [review of Silverman's paper](https://github.com/nfrontero20/si
 
 **3. Frequentist approaches:** summary of two frequentist approaches (stepwise parameter addition and information criterion)
 
-**4. Existing Bayesian approaches:** summary of two common Bayesian approaches that are useful for human rights research (graphical models and dirichlet process mixtures), discussion of the performance of these approaches on his data sets
+**4. Existing Bayesian approaches:** summary of two common Bayesian approaches that are useful for human rights research (graphical models and dirichlet process mixtures), discussion of the performance of these approaches on Silverman's data sets
 
 **5. Bayesian-threshold approach:** summary of Silverman's proposed method (Bayesian-threshold)
 
