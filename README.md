@@ -20,7 +20,8 @@ I have written a review of this paper, titled "Review of Silverman (2020): *Mult
 
 ## Navigating the repository
 
-[silverman-review.pdf](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.pdf)
-[silverman-review.Rmd](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.Rmd)
-[bibliography.bib](https://github.com/nfrontero20/silverman-review/blob/master/bibliography.bib)
+
+  - [silverman-review.pdf](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.pdf): the review in pdf format
+  - [silverman-review.Rmd](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.Rmd): the review in Rmd format
+  - [bibliography.bib](https://github.com/nfrontero20/silverman-review/blob/master/bibliography.bib): the bibliography for the review (referenced in the Rmd)
 
