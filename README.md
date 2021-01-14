@@ -2,7 +2,7 @@
 
 Professor Bernard Silverman, Home Office Chief Scientific Advisor of the United Kingdom, is a statistician who researchs human trafficking and modern slavery.  In 2020, he published a paper titled ["Multiple‐systems analysis for the quantification of modern slavery: classical and Bayesian approaches"](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12505) in which he reviews existing methodologies for quantifying the scale of modern slavery and proposes a new method.  
 
-I have written a [review of Silverman's paper](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.pdf), titled "Review of Silverman (2020): *Multiple-systems analysis for the quantification of modern slavery: classical and Bayesian approaches*".  The review has seven parts, which are as follows: 
+I have written a [review of Silverman's paper](https://github.com/nfrontero20/silverman-review/blob/master/silverman-review.pdf), titled **"Review of Silverman (2020): *Multiple-systems analysis for the quantification of modern slavery: classical and Bayesian approaches*"**.  The review has seven parts, which are as follows: 
 
 **1. Introduction:** overview of report, motivation for the research
 
